@@ -11,12 +11,12 @@ Siendo asi, ahora que he descubierto github y git voy a empezar a mostrar mis pr
 
 > _Niveles_:
 
-> Programacion: **Low**  
+  - Programacion: **Low**  
 
-> Musica: **Low**
+  - Musica: **Low**
+  
+  - Pentesting: **Inexistent**
 
-> Pentesting: **Inexistent**
-
-> PixelArt: **Imaginary**
+  - PixelArt: **Imaginary**
 
 
