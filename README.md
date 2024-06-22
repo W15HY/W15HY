@@ -1,16 +1,24 @@
-## Hi there 👋
+# Pagina en construccion
 
-<!--
-**W15HY/W15HY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Loading...
 
-Here are some ideas to get you started:
+## <img src="w15hy.png" height=70px></img> <div>W15HY</div>
+Soy un **Ingeniero de sistemas** mas por ahora, hasta este momento he construido aplicaciones simples con **HTML**, **CSS**, **JS**, junto a aplicaciones de escritorio con **JAVA** y **PYTHON**, y alguna que otra incursion en aplicaciones moviles con **KOTLIN**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este momento he ganado una competencia de no mucho renombre de desarrollo web con la tematica de Twister.
+
+Siendo asi, ahora que he descubierto github y git voy a empezar a mostrar mis proyectos basicos relacionados con la **musica**, la **programacion**, el **pentesting** y el **pixelArt**. 
+
+```
+ Niveles:
+```
+
+> Programacion: **Low**  
+
+> Musica: **Low**
+
+> Pentesting: **Inexistent**
+
+> PixelArt: **Imaginary**
+
+
